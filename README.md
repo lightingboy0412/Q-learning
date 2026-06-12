@@ -1,2 +1,2 @@
-# Q-learing
-Q-learing practice
+# Q-learning
+Q-learning practice
